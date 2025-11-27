@@ -1,17 +1,49 @@
-# assignment_02
+ 
+**Assignment 02**
 
-A new Flutter project.
+# 📱 Student Banking Dashboard (Flutter) 
 
-## Getting Started
+A simple and modern **student finance dashboard** built using **Flutter**, featuring card management, spending reports, recent transactions, and a user profile.  
+The UI is clean, minimal, and designed for mobile banking applications.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# assignment-two-flutter-UI-HAMIM-2110253
+### ⚙️ Technologies Used
+
+| Tech | Purpose |
+|------|---------|
+| **Flutter (Dart)** | App UI & functionality |
+| **PageView + BottomNavigationBar** | Multi-page navigation |
+| **Material Design Widgets** | UI Components |
+| **Custom Widgets** | Reusable header and cards |
+
+---
+
+### 🌟 Key Features
+
+✔ **Dashboard Header on every screen**  
+✔ **Bottom Navigation with PageView switching**  
+✔ **Home Screen**
+- Total balance & savings
+- Recent transactions
+- Quick action buttons
+
+✔ **Reports Page**
+- Monthly expense summary
+- Category breakdown (progress bars)
+
+✔ **Cards Page**
+- Bank card UI with masked card number
+- Block / Details / Limit actions
+- Linked accounts list
+
+✔ **Profile Page**
+- Student name, ID & IUB email  
+- Avatar (Initials)
+- Student bio/info section
+
+
+
+
