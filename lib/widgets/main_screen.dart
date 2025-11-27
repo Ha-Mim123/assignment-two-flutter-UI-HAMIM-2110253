@@ -29,9 +29,9 @@ class _MainScreenState extends State<MainScreen> {
       body: Column(
         children: [
           const SizedBox(height: 6),
-          const DashboardHeader(),  // 👈 Header on all screens
+          const DashboardHeader(),  
 
-          // 👇 PageView must be wrapped inside Expanded
+          
           Expanded(
             child: PageView(
               controller: _pageController,
